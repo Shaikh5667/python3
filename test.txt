@@ -1,0 +1,4 @@
+sohail
+age = 15
+class 10th
+ 70%
